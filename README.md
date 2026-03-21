@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franzcoz
+- 👋 Hi, My name is Franco!
 - 👀 I’m interested in learning Python, C++
 - 🌱 I’m currently studying to be a Fullstack Web Developer with Javascript and NodeJs
 - 📫 How to reach me franco.pv@protonmail.com
