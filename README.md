@@ -1,4 +1,6 @@
 - 👋 Hi, My name is Franco!
-- 👀 I’m interested in learning Python, C++
-- 🌱 I’m currently studying to be a Fullstack Web Developer with Javascript and NodeJs
+- 🌱 I’m a Full Stack Web Developer
+- 🧰 HTML+CSS+Javascript, NodeJs, SQL + sequelize
+- 📚 Interested in learning Vue, React and Bun in the short term
+- 👀 I’m also interested in learning Python and C++
 - 📫 How to reach me franco.pv@protonmail.com
